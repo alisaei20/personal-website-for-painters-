@@ -673,7 +673,7 @@ html[lang="fa"] .gallery-overlay p {
 
     /* WebKit (Chrome, Edge, Safari) */
     .lightbox-content::-webkit-scrollbar {
-        width: 10px;
+        width: 5px;
     }
     .lightbox-content::-webkit-scrollbar-track {
         background: rgba(255, 255, 255, 0);
